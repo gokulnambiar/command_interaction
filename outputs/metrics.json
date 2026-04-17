@@ -1,0 +1,36 @@
+{
+  "baseline": {
+    "overall": {
+      "count": 1962,
+      "exact_match_accuracy": 0.0963,
+      "stepwise_accuracy": 0.0979
+    },
+    "multi_step": {
+      "count": 252,
+      "exact_match_accuracy": 0.0,
+      "stepwise_accuracy": 0.0
+    },
+    "simple": {
+      "count": 1710,
+      "exact_match_accuracy": 0.1105,
+      "stepwise_accuracy": 0.1123
+    }
+  },
+  "retrieval": {
+    "overall": {
+      "count": 1962,
+      "exact_match_accuracy": 0.2635,
+      "stepwise_accuracy": 0.2917
+    },
+    "multi_step": {
+      "count": 252,
+      "exact_match_accuracy": 0.0437,
+      "stepwise_accuracy": 0.263
+    },
+    "simple": {
+      "count": 1710,
+      "exact_match_accuracy": 0.2959,
+      "stepwise_accuracy": 0.2959
+    }
+  }
+}

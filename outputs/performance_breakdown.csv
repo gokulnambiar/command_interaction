@@ -1,0 +1,7 @@
+approach,group,exact_match_accuracy,stepwise_accuracy,count
+baseline,overall,0.0963,0.0979,1962
+baseline,multi_step,0.0,0.0,252
+baseline,simple,0.1105,0.1123,1710
+retrieval,overall,0.2635,0.2917,1962
+retrieval,multi_step,0.0437,0.263,252
+retrieval,simple,0.2959,0.2959,1710

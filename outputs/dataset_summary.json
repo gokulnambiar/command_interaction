@@ -1,0 +1,22 @@
+{
+  "source_dir": "/Users/gokulnambiar/Codex/command_interaction/data/raw/json_2.1.0",
+  "splits": {
+    "train": {
+      "trajectory_files": 120,
+      "records": 3097
+    },
+    "valid_seen": {
+      "trajectory_files": 40,
+      "records": 1009
+    },
+    "valid_unseen": {
+      "trajectory_files": 40,
+      "records": 953
+    }
+  },
+  "total_records": 5059,
+  "instruction_types": {
+    "multi_step": 628,
+    "simple": 4431
+  }
+}
