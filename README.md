@@ -54,14 +54,3 @@ Saved outputs:
 - `outputs/accuracy_comparison.png`
 - `outputs/dataset_summary.json`
 
-## Run
-
-```bash
-cd /Users/gokulnambiar/Codex/command_interaction
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python3 main.py
-```
-
-The first run downloads the ALFRED lite archive into `data/raw/`, extracts it, builds the subset, runs both parsers, and writes results into `outputs/`.
